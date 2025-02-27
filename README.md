@@ -44,7 +44,7 @@ I’m passionate about designing scalable software solutions and leveraging AI t
 
 ## 📫 Let's Connect  
 - 🔗 GitHub: [github.com/ChaofanHu](https://github.com/ChaofanHu)  
-- 💼 LinkedIn: [www.linkedin.com/in/chaofan-hu](www.linkedin.com/in/chaofan-hu)  
+- 💼 LinkedIn: [www.linkedin.com/in/chaofan-hu](https://www.linkedin.com/in/chaofan-hu)  
 - ✉️ Email: hu.chaofan@outlook.com  
 
 ---
